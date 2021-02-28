@@ -10,7 +10,7 @@ export default class App extends React.Component {
     super(props);
     this.state = {
      inpText : '',
-     list : ["Type below","Click on the",  "hgvyit"]
+     list : ["Type below to add","Click delete icon to remove"]
   }
 this.handleChange = this.handleChange.bind(this);
 this.handleClick = this.handleClick.bind(this);

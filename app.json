@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/favicon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.kaphle.todoApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
